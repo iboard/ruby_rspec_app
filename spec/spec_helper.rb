@@ -1,0 +1,1 @@
+require File.expand_path("../../lib/app/application", __FILE__)
